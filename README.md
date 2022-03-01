@@ -1,5 +1,3 @@
-# Kokoa Clone 2021 Update
+# 카카오톡 따라하기
 
-HTML & CSS are so much fun
-
-index.html
+https://nomadcoders.co/kokoa-clone
